@@ -4,6 +4,7 @@ title: About Me
 headshot: /assets/img/headshot.webp
 permalink: /about
 ---
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2bd26bff-a580-4fd5-8545-cf592597967f" />
 
 # Portfolio Jekyll Theme
 
